@@ -2,11 +2,11 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+AI was used to learn a few things and some help with code, commented everything in detail where and how it was used
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| Avyaan Gulati| avyaan |
+| Arshit Jain | arshit  |
